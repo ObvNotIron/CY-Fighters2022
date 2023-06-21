@@ -1,0 +1,1 @@
+fighter *get_fighters();
